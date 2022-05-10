@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Maksymilian Trzeciak, @Maculapse
 - 👀 I’m interested in web development, aerospace engineering and film production
-- 🌱 I’m currently learning JavaScript technologies
+- 🌱 I’m currently developing JavaScript technologies
 - 📫 You can reach me at maksymilian.a.trzeciak@gmail.com
