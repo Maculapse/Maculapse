@@ -3,4 +3,4 @@
 - 🌱 I’m currently working with JavaScript technologies
 - 📫 You can reach me at maksymilian.a.trzeciak@gmail.com
 - 🧑‍💻 Technologies:
-      Vue.js, Angular, Node.js, Three.js, MongoDB, PostgreSQL, Symfony PHP, MATLAB, Blender
+      Vue.js, Angular, Node.js, Python, Three.js, MongoDB, PostgreSQL, Symfony PHP, MATLAB, Blender
